@@ -5,4 +5,5 @@ User can also check a file using a know data ID
 User can also upload a file to receive data ID for future scan.
 
 # Internal Code
-Plaese apply your api key to the apikey variable 
+Plaese apply your api key to the apikey variable at OPSWAT-Coding-Test/src/main/java/filescanApp/FileScanUI.java line 36
+Due to testing purposes, apikey is apply directly to the code.  In real life deployment such of information should be stored in a system environment varible to protect the private api key.
